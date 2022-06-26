@@ -11,7 +11,8 @@
     ],
     "types": [
       "webpack-env",
-      "vscode-notebook-renderer"
+      "vscode-notebook-renderer",
+      "node"
     ],
     "jsx": "react-jsx"
   }
